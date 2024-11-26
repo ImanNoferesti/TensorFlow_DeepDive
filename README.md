@@ -1,6 +1,6 @@
-# Deep Learning Tutorials 🧠💻
+# Deep Learning 🧠💻
 
-Welcome to my deep learning journey! This repository contains tutorials, projects, and notes as I delve into various advanced topics in deep learning using TensorFlow and related tools. The content is organized to showcase the knowledge and skills I’ve developed in a structured manner.
+Welcome to my deep learning journey! This repository contains my notes and projects as I delve into various advanced topics in deep learning using TensorFlow and related tools. The content is organized to showcase the knowledge and skills I’ve developed in a structured manner.
 
 ## 📚 Table of Contents
 
