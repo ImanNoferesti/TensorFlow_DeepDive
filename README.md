@@ -30,39 +30,39 @@ In this project, I explored linear regression to predict car prices. The process
 ## 3. 🦠 Malaria Diagnosis
 
 This section demonstrates a comprehensive deep learning pipeline to diagnose malaria using Convolutional Neural Networks (CNNs). It includes the following subsections:
-* Data Prepration
-  *  Data Loading: Importing the malaria dataset.
-  *  Data Visualization: Exploring the dataset visually to understand patterns.
-* Data Preprocessing
-  * Data Partitioning: Splitting data into training, validation, and testing sets.
-  * Data Augmentation: Enhancing the dataset with transformations.
-  * Mixup Data Augmentation: Implementing the Mixup technique.
-  * CutMix Data Augmentation: Applying CutMix for enhanced model generalization.
-  * Albumentations: Leveraging advanced augmentation techniques.
-* Model Creation
-  * Sequential API:
+* **Data Prepration**
+  *  **Data Loading:** Importing the malaria dataset.
+  *  **Data Visualization:** Exploring the dataset visually to understand patterns.
+* **Data Preprocessing**
+  * **Data Partitioning:** Splitting data into training, validation, and testing sets.
+  * **Data Augmentation:** Enhancing the dataset with transformations.
+  * **Mixup Data Augmentation:** Implementing the Mixup technique.
+  * **CutMix Data Augmentation:** Applying CutMix for enhanced model generalization.
+  * **Albumentations:** Leveraging advanced augmentation techniques.
+* **Model Creation**
+  * **Sequential API:**
      * Techniques like Dropout, Regularization, and Augmentation.
-  * Functional API:
+  * **Functional API:**
      * Building flexible models with callable layers.
-  * Model Subclassing:
+  * **Model Subclassing:**
      * Creating custom layers and architectures.
-  * Callbacks:
+  * **Callbacks:**
      * Tools like CSVLogger, EarlyStopping, LearningRateScheduler, ModelCheckpoint, and Tensorboard for monitoring and improving training.
-     * Tensorboard Integration:
+     * **Tensorboard Integration:**
         * Data Logging, Visualizing Model Graphs, Hyperparameter Tuning, Profiling, and Visualizations.
-* Modern Convolutional Neural Networks:
+* **Modern Convolutional Neural Networks:**
   * Implementing architectures such as AlexNet, VGGNet, ResNet, MobileNet, and EfficientNet.
   * Coding ResNet from Scratch.
-* Training CNN
-  * Custom Loss Functions and Metrics:
-        * Custom implementations for loss and metrics with and without parameters.
-        * Defining custom classes for advanced use cases.
-  * Visualizations:
-        * Visualizing training metrics and results.
-* Model Evaluation and Testing
-  * ROC and Confusion Matrix:
-        * Assessing model performance on test data.
-* Saving and Loading Models
+* **Training CNN**
+  * **Custom Loss Functions and Metrics:**
+    * Custom implementations for loss and metrics with and without parameters.
+    * Defining custom classes for advanced use cases.
+  * **Visualizations:**
+    * Visualizing training metrics and results.
+* **Model Evaluation and Testing**
+  * **ROC and Confusion Matrix:**
+    * Assessing model performance on test data.
+* **Saving and Loading Models**
   * Efficient model persistence techniques. 
 
 
